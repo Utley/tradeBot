@@ -1,0 +1,7 @@
+.alpaca_key_id
+.alpaca_secret_key
+.discord_token
+bot.py
+__pycache__
+assets.db
+todo.txt
